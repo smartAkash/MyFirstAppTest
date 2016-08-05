@@ -22,6 +22,20 @@ class ViewController: UIViewController {
         "hello how  are you"
         "hello how  are you"
         "hello how  are you"
+        +        "hello how  are you"
++        "hello how  are you"
++        "hello how  are you"
++        "hello how  are you"
++        "hello how  are you"
++        "hello how  are you"
++        "hello how  are you"
++        "hello how  are you"
++        "hello how  are you"
++        "hello how  are you"
++        "hello how  are you"
++        "hello how  are you"
++        "hello how  are you"
+
 
         // Do any additional setup after loading the view, typically from a nib.
     }
