@@ -26,7 +26,7 @@ class ViewController: UIViewController {
         "yes o got it  from news line"
 +       "hello how  are you"
 
-        
+        "yes i knows what is going on"
 
         // Do any additional setup after loading the view, typically from a nib.
     }
