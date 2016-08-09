@@ -24,15 +24,11 @@ class ViewController: UIViewController {
         "hello how  are you"
 
         "yes o got it  from news line"
-<<<<<<< HEAD
         "hello how  are you"
 "gdgdfggdhdfhfhfdhhhdhfhdhdhdfhhhdhfhdhhdhdhdfhdhhdhdhfhhhdfhfhhhhh"
         
-=======
-+       "hello how  are you"
 
         "yes i knows what is going on"
->>>>>>> Mytest
 
         // Do any additional setup after loading the view, typically from a nib.
     }
