@@ -25,6 +25,9 @@ class ViewController: UIViewController {
 
         "yes o got it  from news line"
         "hello how  are you"
+        "hello how  are you"
+        "hello how  are you"
+        "hello how  are you"
 "gdgdfggdhdfhfhfdhhhdhfhdhdhdfhhhdhfhdhhdhdhdfhdhhdhdhfhhhdfhfhhhhh"
         
         "yes i knows what is going on"
